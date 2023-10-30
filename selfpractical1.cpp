@@ -15,4 +15,4 @@ int main()
   cout.precision(2); // кількість знаків після коми
   cout << "a to b power  = " << pow(a, b) << endl;
   return 0;
-}.
+}
